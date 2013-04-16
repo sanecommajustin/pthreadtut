@@ -1,0 +1,1 @@
+Simple little thread example in c for posix threading library. Compile with gcc and -lpthread
